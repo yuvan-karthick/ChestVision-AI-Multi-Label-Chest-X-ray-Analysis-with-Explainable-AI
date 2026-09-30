@@ -1,16 +1,26 @@
 [
-    {
-        "id": "radiologyinfo_chest_xray_report",
-        "title": "How to Read Your Chest X-ray Report",
-        "organization": "RadiologyInfo",
-        "url": "https://www.radiologyinfo.org/en/info/article-chest-xray-report",
-        "type": "medical_reference"
-    },
-    {
-        "id": "chestxray14_dataset",
-        "title": "ChestX-ray14 Dataset and Multi-Label Chest X-ray Classification",
-        "organization": "NIH / Research Literature",
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9131331/",
-        "type": "research"
-    }
+  {
+    "id": "chestxray14_dataset",
+    "title": "NIH ChestX-ray14 Dataset",
+    "organization": "NIH Clinical Center / Research Literature",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9131331/",
+    "type": "dataset_research",
+    "purpose": "Dataset characteristics, 14 findings, multi-label classification, and label generation"
+  },
+  {
+    "id": "radiologyinfo_chest_xray",
+    "title": "Chest X-ray (Radiography)",
+    "organization": "RadiologyInfo",
+    "url": "https://www.radiologyinfo.org/en/info/chestrad",
+    "type": "medical_reference",
+    "purpose": "Chest X-ray overview, uses, procedure, interpretation context, and limitations"
+  },
+  {
+    "id": "radiologyinfo_chest_xray_report",
+    "title": "How to Read Your Chest X-ray Report",
+    "organization": "RadiologyInfo",
+    "url": "https://www.radiologyinfo.org/en/info/article-chest-xray-report",
+    "type": "medical_reference",
+    "purpose": "Radiology report terminology, findings, impression, and common chest X-ray findings"
+  }
 ]

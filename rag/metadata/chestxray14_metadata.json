@@ -1,0 +1,34 @@
+[
+  {
+    "faiss_index": 0,
+    "chunk_id": "chestxray14_001",
+    "source_id": "chestxray14_research",
+    "source_title": "ChestX-ray14 Dataset and Multi-Label Chest X-ray Classification",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9131331/",
+    "section": "Background"
+  },
+  {
+    "faiss_index": 1,
+    "chunk_id": "chestxray14_002",
+    "source_id": "chestxray14_research",
+    "source_title": "ChestX-ray14 Dataset and Multi-Label Chest X-ray Classification",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9131331/",
+    "section": "Methods"
+  },
+  {
+    "faiss_index": 2,
+    "chunk_id": "chestxray14_003",
+    "source_id": "chestxray14_research",
+    "source_title": "ChestX-ray14 Dataset and Multi-Label Chest X-ray Classification",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9131331/",
+    "section": "Results"
+  },
+  {
+    "faiss_index": 3,
+    "chunk_id": "chestxray14_004",
+    "source_id": "chestxray14_research",
+    "source_title": "ChestX-ray14 Dataset and Multi-Label Chest X-ray Classification",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9131331/",
+    "section": "Conclusions"
+  }
+]

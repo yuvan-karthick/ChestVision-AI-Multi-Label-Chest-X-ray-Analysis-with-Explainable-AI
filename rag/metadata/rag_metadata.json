@@ -1,0 +1,178 @@
+[
+  {
+    "faiss_index": 0,
+    "chunk_id": "rag_001",
+    "source_id": "chestxray14_dataset",
+    "source_title": "NIH ChestX-ray14 Dataset",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9131331/",
+    "section": "Background"
+  },
+  {
+    "faiss_index": 1,
+    "chunk_id": "rag_002",
+    "source_id": "chestxray14_dataset",
+    "source_title": "NIH ChestX-ray14 Dataset",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9131331/",
+    "section": "Methods"
+  },
+  {
+    "faiss_index": 2,
+    "chunk_id": "rag_003",
+    "source_id": "chestxray14_dataset",
+    "source_title": "NIH ChestX-ray14 Dataset",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9131331/",
+    "section": "Results"
+  },
+  {
+    "faiss_index": 3,
+    "chunk_id": "rag_004",
+    "source_id": "chestxray14_dataset",
+    "source_title": "NIH ChestX-ray14 Dataset",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9131331/",
+    "section": "Conclusions"
+  },
+  {
+    "faiss_index": 4,
+    "chunk_id": "rag_005",
+    "source_id": "radiologyinfo_chest_xray",
+    "source_title": "Chest X-ray (Radiography)",
+    "source_url": "https://www.radiologyinfo.org/en/info/chestrad",
+    "section": "What is a chest X-ray?"
+  },
+  {
+    "faiss_index": 5,
+    "chunk_id": "rag_006",
+    "source_id": "radiologyinfo_chest_xray",
+    "source_title": "Chest X-ray (Radiography)",
+    "source_url": "https://www.radiologyinfo.org/en/info/chestrad",
+    "section": "What are some common uses of the procedure?"
+  },
+  {
+    "faiss_index": 6,
+    "chunk_id": "rag_007",
+    "source_id": "radiologyinfo_chest_xray",
+    "source_title": "Chest X-ray (Radiography)",
+    "source_url": "https://www.radiologyinfo.org/en/info/chestrad",
+    "section": "How should I prepare?"
+  },
+  {
+    "faiss_index": 7,
+    "chunk_id": "rag_008",
+    "source_id": "radiologyinfo_chest_xray",
+    "source_title": "Chest X-ray (Radiography)",
+    "source_url": "https://www.radiologyinfo.org/en/info/chestrad",
+    "section": "What does the equipment look like?"
+  },
+  {
+    "faiss_index": 8,
+    "chunk_id": "rag_009",
+    "source_id": "radiologyinfo_chest_xray",
+    "source_title": "Chest X-ray (Radiography)",
+    "source_url": "https://www.radiologyinfo.org/en/info/chestrad",
+    "section": "How does the procedure work?"
+  },
+  {
+    "faiss_index": 9,
+    "chunk_id": "rag_010",
+    "source_id": "radiologyinfo_chest_xray",
+    "source_title": "Chest X-ray (Radiography)",
+    "source_url": "https://www.radiologyinfo.org/en/info/chestrad",
+    "section": "How is the procedure performed?"
+  },
+  {
+    "faiss_index": 10,
+    "chunk_id": "rag_011",
+    "source_id": "radiologyinfo_chest_xray",
+    "source_title": "Chest X-ray (Radiography)",
+    "source_url": "https://www.radiologyinfo.org/en/info/chestrad",
+    "section": "What will I experience during and after the procedure?"
+  },
+  {
+    "faiss_index": 11,
+    "chunk_id": "rag_012",
+    "source_id": "radiologyinfo_chest_xray",
+    "source_title": "Chest X-ray (Radiography)",
+    "source_url": "https://www.radiologyinfo.org/en/info/chestrad",
+    "section": "Who interprets the results and how do I get them?"
+  },
+  {
+    "faiss_index": 12,
+    "chunk_id": "rag_013",
+    "source_id": "radiologyinfo_chest_xray",
+    "source_title": "Chest X-ray (Radiography)",
+    "source_url": "https://www.radiologyinfo.org/en/info/chestrad",
+    "section": "What are the benefits vs. risks?"
+  },
+  {
+    "faiss_index": 13,
+    "chunk_id": "rag_014",
+    "source_id": "radiologyinfo_chest_xray",
+    "source_title": "Chest X-ray (Radiography)",
+    "source_url": "https://www.radiologyinfo.org/en/info/chestrad",
+    "section": "What are the limitations of chest x-ray?"
+  },
+  {
+    "faiss_index": 14,
+    "chunk_id": "rag_015",
+    "source_id": "radiologyinfo_chest_xray_report",
+    "source_title": "How to Read Your Chest X-ray Report",
+    "source_url": "https://www.radiologyinfo.org/en/info/article-chest-xray-report",
+    "section": "What is Chest X-ray commonly used for?"
+  },
+  {
+    "faiss_index": 15,
+    "chunk_id": "rag_016",
+    "source_id": "radiologyinfo_chest_xray_report",
+    "source_title": "How to Read Your Chest X-ray Report",
+    "source_url": "https://www.radiologyinfo.org/en/info/article-chest-xray-report",
+    "section": "Type of exam"
+  },
+  {
+    "faiss_index": 16,
+    "chunk_id": "rag_017",
+    "source_id": "radiologyinfo_chest_xray_report",
+    "source_title": "How to Read Your Chest X-ray Report",
+    "source_url": "https://www.radiologyinfo.org/en/info/article-chest-xray-report",
+    "section": "History/Reason for exam"
+  },
+  {
+    "faiss_index": 17,
+    "chunk_id": "rag_018",
+    "source_id": "radiologyinfo_chest_xray_report",
+    "source_title": "How to Read Your Chest X-ray Report",
+    "source_url": "https://www.radiologyinfo.org/en/info/article-chest-xray-report",
+    "section": "Comparison/Priors"
+  },
+  {
+    "faiss_index": 18,
+    "chunk_id": "rag_019",
+    "source_id": "radiologyinfo_chest_xray_report",
+    "source_title": "How to Read Your Chest X-ray Report",
+    "source_url": "https://www.radiologyinfo.org/en/info/article-chest-xray-report",
+    "section": "Technique"
+  },
+  {
+    "faiss_index": 19,
+    "chunk_id": "rag_020",
+    "source_id": "radiologyinfo_chest_xray_report",
+    "source_title": "How to Read Your Chest X-ray Report",
+    "source_url": "https://www.radiologyinfo.org/en/info/article-chest-xray-report",
+    "section": "Findings"
+  },
+  {
+    "faiss_index": 20,
+    "chunk_id": "rag_021",
+    "source_id": "radiologyinfo_chest_xray_report",
+    "source_title": "How to Read Your Chest X-ray Report",
+    "source_url": "https://www.radiologyinfo.org/en/info/article-chest-xray-report",
+    "section": "Impression"
+  },
+  {
+    "faiss_index": 21,
+    "chunk_id": "rag_022",
+    "source_id": "radiologyinfo_chest_xray_report",
+    "source_title": "How to Read Your Chest X-ray Report",
+    "source_url": "https://www.radiologyinfo.org/en/info/article-chest-xray-report",
+    "section": "Additional Information"
+  }
+]

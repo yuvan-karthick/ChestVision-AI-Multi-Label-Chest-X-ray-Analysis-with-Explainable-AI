@@ -1,0 +1,89 @@
+What is Chest X-ray commonly used for?
+
+Doctors typically use this procedure to help diagnose breathing difficulties, a bad or persistent cough, chest pain or injury, and fever. They also use it to diagnose diseases such as:
+
+pneumonia
+
+emphysema
+
+lung cancer
+
+pulmonary edema
+
+Doctors also may use a chest x-ray to check the positioning of medical devices or to diagnose fluid or air collection around the lungs. For more information, see the Chest X-ray page.
+
+top of page
+
+Type of exam
+
+This section usually shows the date, time, and type of exam. This is usually dictated by your symptoms or needs.
+
+Example:
+
+Chest X-ray performed January 10th, 2023 .
+
+History/Reason for exam
+
+This section usually lists the information that your ordering provider has listed for the radiologist when they ordered your exam. It allows your ordering provider to explain what symptoms you are having and why they are ordering the radiology test. This helps the radiologist accurately interpret your test and focus the report on your symptoms and past medical history. Sometimes the radiologist who reads your exam will also add information that they find in your chart or in the forms that you fill out before your imaging test.
+
+Example:
+
+64-year-old male with a history of lung cancer and new persistent cough.
+
+Comparison/Priors
+
+If you have had relevant prior imaging exams, the radiologist will compare them to the new imaging exam. If so, the radiologist will list them here. Comparisons usually involve exams of the same body area and exam type. It is always a good idea to get any prior imaging exams from other hospitals/facilities and give them to the radiology department where you are having your test. Having these older exams can be very helpful to the radiologist. In some cases, simply having your prior test available will make a difference in what the radiologist recommends if they see something on your scan.  The prior exam can help show if a previous finding is unchanged or if there is a new finding.
+
+Example:
+
+Comparison is made to a chest x-ray performed January 4, 2020.
+
+Technique
+
+This section describes how the exam was done and whether contrast was used. Because this section is used for documentation purposes, it is not typically useful for you or your doctor. However, it can be very helpful to a radiologist for any future exam if needed.
+
+Examples:
+
+AP portable view of the chest
+
+PA and lateral views of the chest
+
+Findings
+
+This section lists what the radiologist saw in each area of the body in the exam. Your radiologist notes whether they think the area is normal, abnormal, or potentially abnormal. Sometimes an exam covers an area of the body but does not discuss any findings. This usually means that the radiologist looked but did not find any problems to tell your doctor. Some radiologists will report things in paragraph form, while others use a reporting style where each organ or region of the body is listed as a line with the findings. If the radiologist does not see anything concerning it may say “normal” or “unremarkable.”
+
+Example:
+
+Lines and Tube: None. Lungs and Pleura: Lungs are clear.  No pneumothorax or pleural effusion. Heart and Mediastinum: Cardiomediastinal silhouette is within normal limits. Bones: Visualized osseous structures are unremarkable.
+
+Impression
+
+In this section, the radiologist summarizes the findings and reports the most important findings that they see and possible causes for those findings. It also has recommendations for any follow-up actions. This section offers the most important information for decision-making. Therefore, it is the most important part of the radiology report for you and your healthcare team.
+
+For an abnormal or potentially abnormal finding, the radiologist may recommend:
+
+Other imaging tests that can help better assess the finding or getting a follow up imaging test to relook at the finding after a period of time.
+
+Combining the finding with clinical symptoms or laboratory test results.
+
+Comparing the finding with any other imaging studies that the radiologist interpreting your test does not have access to. This is common when you have imaging tests done at different facilities or hospitals.
+
+Sometimes the report does not answer the clinical question, and more exams may be needed. More exams may be necessary to follow-up on a suspicious or questionable finding.
+
+Example 1:
+
+New nodule in the left lung which is indeterminate (cannot be definitively diagnosed by the study). RECOMMENDATION: Chest CT is advised for further characterization.
+
+Example 2:
+
+Right lower lobe pneumonia. RECOMMENDATION: Follow up chest radiograph is advised in 4-6 weeks to ensure resolution.
+
+top of page
+
+Additional Information
+
+Once the report is complete, the radiologist signs it, and sends the report to your doctor who will then discuss the results with you. The doctor may upload the report to your patient portal before they call you. If you read the report before talking to your doctor, don’t make assumptions about the report’s findings. Something that seems to be bad often turns out not to be a cause for concern.
+
+Sometimes, you may have questions about your report that your doctor cannot answer. If so, talk to your facility's imaging staff. Many radiologists are happy to answer your questions.
+
+top of page
