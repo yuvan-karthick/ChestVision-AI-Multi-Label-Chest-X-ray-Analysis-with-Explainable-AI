@@ -1,0 +1,12 @@
+[
+  {
+    "chunk_id": "cardiomegaly_001",
+    "source_id": "cardiomegaly_ncbi",
+    "title": "Cardiomegaly",
+    "organization": "NCBI MedGen / NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/medgen/5459",
+    "finding": "Cardiomegaly",
+    "section": "Cardiomegaly",
+    "text": "Cardiomegaly\n\nCardiomegaly refers to increased size of the heart. It is clinically defined by an increased transverse diameter of the cardiac silhouette greater than or equal to 50% of the transverse diameter of the chest (increased cardiothoracic ratio) on a posterior-anterior chest radiograph or computed tomography.\n\nOn chest X-ray, an enlarged cardiac silhouette with a cardiothoracic ratio greater than 50% suggests cardiomegaly. Chest radiography may also provide clues about enlargement of specific cardiac chambers. However, the apparent cardiac size can be affected by the imaging technique and projection. Further evaluation with other imaging, such as echocardiography, may be required to assess cardiac chamber size and function and to investigate the underlying cause."
+  }
+]

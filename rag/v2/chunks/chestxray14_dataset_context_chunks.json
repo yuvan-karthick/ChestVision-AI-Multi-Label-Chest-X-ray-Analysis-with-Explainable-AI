@@ -1,0 +1,12 @@
+[
+  {
+    "chunk_id": "infiltration_001",
+    "source_id": "chestxray14_dataset_context",
+    "title": "ChestX-ray14 Dataset Context",
+    "organization": "NCBI / PMC",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9131331/",
+    "finding": "Infiltration",
+    "section": "Infiltration — ChestX-ray14 dataset label",
+    "text": "Infiltration — ChestX-ray14 dataset label\n\nIn the ChestX-ray14 dataset, “Infiltration” is one of 14 thoracic pathology labels. The dataset contains 112,120 frontal-view chest X-ray images from 30,805 patients, and the disease image labels were text-mined from associated radiological reports using natural language processing. Each image can have multiple labels.\n\n“Infiltration” is therefore preserved here as the original ChestX-ray14 dataset label. It should not be interpreted as a single specific modern clinical diagnosis without additional clinical or radiological context."
+  }
+]

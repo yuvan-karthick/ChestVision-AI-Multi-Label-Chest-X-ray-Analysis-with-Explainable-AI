@@ -1,0 +1,24 @@
+[
+  {
+    "chunk_id": "emphysema_001",
+    "source_id": "emphysema_radiologyinfo",
+    "finding": "Emphysema",
+    "section": "Definition",
+    "title": "COPD - Diagnosis, Evaluation and Treatment",
+    "organization": "RadiologyInfo / ACR / RSNA",
+    "url": "https://www.radiologyinfo.org/en/info/copd",
+    "last_reviewed": "2025-02-03",
+    "text": "Chronic obstructive pulmonary disease (COPD) refers to\npulmonary\ndisease that blocks airflow in the lungs and causes breathing difficulties. Chronic\nbronchitis\nand\nemphysema\nare often part of this condition.\nChronic bronchitis is the inflammation of the airways or\nbronchial tubes\n. This inflammation can create narrowing and excess mucus, blocking airflow. You may develop a long-standing cough, which occurs to clear the mucus from the airways. For bronchitis to be considered chronic, you must have a cough that lasts at least three months of the year for two years.\nEmphysema occurs when the linings of the air sacs are damaged and holes develop in the lungs. Once the air becomes trapped in these holes, the lungs slowly increase in size and lose their elasticity. This makes breathing more difficult because the lungs cannot exhale air completely.\nSymptoms of COPD may include:\nShortness of breath, especially during physical activity\nChronic cough, often with excess mucus\nRecurrent respiratory infections\nWheezing\nTightness in the chest\nCyanosis\n, or a blue discoloration of the lips or fingernail beds\nLack of energy\nUnintended weight loss\nThere are many factors that contribute to the development of COPD. The leading cause is tobacco smoking. Others include:\nSecondhand smoke\nAir pollution\nExposure to harmful dust or chemical fumes in the workplace\nIn rare cases, non-smokers or children may develop COPD as a result of\nalpha-1 antitrypsin deficiency\n(A1AD).  A1AD is a genetic disorder caused by abnormally low levels of a protein called alpha-1 antitrypsin. These patients develop emphysema at the base of the lung."
+  },
+  {
+    "chunk_id": "emphysema_002",
+    "source_id": "emphysema_radiologyinfo",
+    "finding": "Emphysema",
+    "section": "Diagnosis and Evaluation",
+    "title": "COPD - Diagnosis, Evaluation and Treatment",
+    "organization": "RadiologyInfo / ACR / RSNA",
+    "url": "https://www.radiologyinfo.org/en/info/copd",
+    "last_reviewed": "2025-02-03",
+    "text": "Your primary care doctor will begin by taking your medical history and asking about symptoms. You will also undergo a physical exam.\nIf your doctor suspects you are suffering from COPD, the following tests may be performed:\nSpirometry: This lung function test involves the use of a machine called a\nspirometer\nthat measures how much air you are able to move by taking a deep breath in and out, and how quickly you are able to do so.\nArterial blood gas analysis: This test measures how much oxygen and carbon dioxide are present in your blood. A high percentage of carbon dioxide in the blood can be a sign of poorly functioning lungs caused by COPD.\nYour doctor may also order the following imaging tests:\nChest x-ray:\nThis exam can help support the diagnosis of COPD by producing images of the lungs to evaluate symptoms of shortness of breath or chronic cough. While a chest x-ray may not show COPD until it is severe, the images may show enlarged lungs, air pockets (\nbullae\n) or a flattened\ndiaphragm\n. A chest x-ray may also be used to determine if another condition may be causing symptoms similar to COPD.\nSee the\nSafety section\nfor more information about x-rays.\nChest computed tomography (CT) scan:\nThis exam may be performed to help support the diagnosis of COPD or determine if the disease has worsened. It combines special x-ray equipment with sophisticated computers to produce multiple images or pictures of the inside of the lungs. CT images can identify emphysema better and at an earlier stage than a chest x-ray. They can also identify other changes of COPD such as enlarged arteries in the lungs. CT is sometimes used to measure the extent of emphysema within the lungs. It can also help determine if the symptoms are the result of another disease of the chest.\nSee the\nSafety section\nfor more information about CT."
+  }
+]

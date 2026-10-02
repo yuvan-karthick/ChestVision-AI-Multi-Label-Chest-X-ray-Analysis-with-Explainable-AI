@@ -1,0 +1,44 @@
+Definition
+----------
+A lung nodule, also called a pulmonary nodule, is a small (<3cm), growth in the lung. Lung nodules are common. They are found in up to half of adults who undergo chest x-rays or CT scans. Doctors most often find them on a chest x-ray or CT scan performed for another reason. You may have a single lung nodule or several. Small lung nodules are typically benign (not cancer). Some, however, may be early-stage lung cancer. Lung nodules are frequently caused by infection, scars, or lymph nodes, among other benign processes. Sometimes, however, a nodule is caused by lung cancer or by the spread of a different type of cancer to the lung.
+Most lung nodules don’t cause any symptoms. When symptoms are present, they may include:
+Coughing
+Coughing up blood
+Shortness of breath
+Wheezing
+Respiratory infection
+Although in most cases, a small lung nodule does not mean cancer, certain risk factors can increase the likelihood that a lung nodule is malignant. These include:
+Being over the age of 50
+Smoking
+A family history of lung cancer
+Having symptoms of lung cancer
+Nodule size
+Nodule growth
+Nodule shape (such as spiculated margins)
+
+Detection and Evaluation
+------------------------
+Doctors most often find lung nodules on a chest x-ray or CT scan being performed for another reason. Your doctor may order one or more of the following tests to help establish the size, number, and composition of your nodule(s):
+Chest x-ray
+:
+This exam produces pictures of the lungs with a very small dose of ionizing radiation.
+Chest CT
+:
+CT can help your doctor see the size, shape, and location of the lung nodule. It also provides information on other nodule characteristics, like the presence of calcium deposits or fat which can aid in the diagnosis.
+Your doctor may suggest a follow-up exam using established guidelines published by the Fleischner Society, an international organization of experts in chest disease. The guidelines are for the management of nodules found in patients 35 years or older during CT exams performed for purposes other than lung cancer screening. These guidelines help decrease the number of unnecessary follow-up exams. The guidelines also account for individual cancer risk factors like smoking and family history of lung cancer. Nodule size, appearance (solid or subsolid) and the presence of multiple nodules also guide management guidelines.
+Using the guidelines, your doctor will establish your risk level and a strategy for future exams to monitor the nodule(s).
+Depending on the nodule characteristics or changes on a follow-up exam, your doctor may order additional tests such as blood tests, a
+PET/CT scan
+, or
+needle biopsy of the lung
+to rule out other conditions such as tuberculosis or cancer.
+
+Treatment
+---------
+Treatment decisions depend on the size and appearance of the nodule, along with your cancer risk and your current health status.
+If a nodule hasn’t grown or changed over a period of a few years, it usually can be left alone.
+Your risk for cancer as well as the size and persistence of your lung nodule will determine what, if any, actions your doctor will take. These actions may range from watchful monitoring via repeat CT scans to surgical intervention.
+Your doctor may recommend surgical removal of the nodule if it is large, cancerous, or causing symptoms. If surgery is recommended, your doctor will discuss all options with you. Surgical removal of the nodule is often the only treatment necessary.
+For more information, see the
+Lung Cancer Treatment
+page.

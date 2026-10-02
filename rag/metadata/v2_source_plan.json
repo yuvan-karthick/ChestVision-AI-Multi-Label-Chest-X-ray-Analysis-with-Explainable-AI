@@ -1,0 +1,128 @@
+[
+  {
+    "id": "atelectasis_medlineplus",
+    "title": "Atelectasis",
+    "organization": "MedlinePlus / NIH",
+    "url": "https://medlineplus.gov/ency/article/000065.htm",
+    "type": "medical_reference",
+    "finding": "Atelectasis",
+    "purpose": "Definition, causes, evaluation, and chest imaging context"
+  },
+  {
+    "id": "cardiomegaly_ncbi",
+    "title": "Cardiomegaly",
+    "organization": "NCBI Bookshelf / StatPearls",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK542296/",
+    "type": "medical_reference",
+    "finding": "Cardiomegaly",
+    "purpose": "Definition, imaging evaluation, and chest radiograph context"
+  },
+  {
+    "id": "pleural_effusion_medlineplus",
+    "title": "Pleural Effusion",
+    "organization": "MedlinePlus / NIH",
+    "url": "https://medlineplus.gov/ency/article/000086.htm",
+    "type": "medical_reference",
+    "finding": "Effusion",
+    "purpose": "Definition, causes, and clinical context"
+  },
+  {
+    "id": "lung_nodules_radiologyinfo",
+    "title": "Lung Nodules",
+    "organization": "RadiologyInfo / ACR / RSNA",
+    "url": "https://www.radiologyinfo.org/en/info/lung-nodules",
+    "type": "medical_reference",
+    "finding": "Nodule",
+    "purpose": "Definition, imaging context, and evaluation"
+  },
+  {
+    "id": "pneumonia_radiologyinfo",
+    "title": "Pneumonia",
+    "organization": "RadiologyInfo / ACR / RSNA",
+    "url": "https://www.radiologyinfo.org/en/info/pneumonia",
+    "type": "medical_reference",
+    "finding": "Pneumonia",
+    "purpose": "Chest X-ray role and imaging context"
+  },
+  {
+    "id": "pneumothorax_ncbi",
+    "title": "Diseases of the Pleura and Chest Wall",
+    "organization": "NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK621648/",
+    "type": "medical_reference",
+    "finding": "Pneumothorax",
+    "purpose": "Chest radiograph appearance and imaging limitations"
+  },
+  {
+    "id": "lung_consolidation_ncbi",
+    "title": "Lung Consolidation",
+    "organization": "NCBI MedGen",
+    "url": "https://www.ncbi.nlm.nih.gov/medgen/636648",
+    "type": "medical_reference",
+    "finding": "Consolidation",
+    "purpose": "Radiologic definition of lung consolidation"
+  },
+  {
+    "id": "pulmonary_edema_medlineplus",
+    "title": "Pulmonary Edema",
+    "organization": "MedlinePlus / NIH",
+    "url": "https://medlineplus.gov/ency/article/000140.htm",
+    "type": "medical_reference",
+    "finding": "Edema",
+    "purpose": "Definition and clinical context"
+  },
+  {
+    "id": "emphysema_radiologyinfo",
+    "title": "COPD",
+    "organization": "RadiologyInfo / ACR / RSNA",
+    "url": "https://www.radiologyinfo.org/en/info/copd",
+    "type": "medical_reference",
+    "finding": "Emphysema",
+    "purpose": "Emphysema and chest imaging context"
+  },
+  {
+    "id": "pulmonary_fibrosis_nhlbi",
+    "title": "Pulmonary Fibrosis — Diagnosis",
+    "organization": "NHLBI / NIH",
+    "url": "https://www.nhlbi.nih.gov/health/idiopathic-pulmonary-fibrosis/diagnosis",
+    "type": "medical_reference",
+    "finding": "Fibrosis",
+    "purpose": "Pulmonary fibrosis and role/limitations of chest X-ray"
+  },
+  {
+    "id": "pleural_thickening_ncbi",
+    "title": "Diseases of the Pleura and Chest Wall",
+    "organization": "NCBI Bookshelf",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK621648/",
+    "type": "medical_reference",
+    "finding": "Pleural Thickening",
+    "purpose": "Radiographic appearance and differentiation from pleural fluid"
+  },
+  {
+    "id": "pulmonary_mass_ncbi",
+    "title": "Pulmonary Mass",
+    "organization": "NCBI MedGen",
+    "url": "https://www.ncbi.nlm.nih.gov/medgen/57697",
+    "type": "medical_reference",
+    "finding": "Mass",
+    "purpose": "Definition of pulmonary mass on chest imaging"
+  },
+  {
+    "id": "diaphragmatic_hernia_medlineplus",
+    "title": "Diaphragmatic Hernia",
+    "organization": "MedlinePlus / NIH",
+    "url": "https://medlineplus.gov/ency/article/001135.htm",
+    "type": "medical_reference",
+    "finding": "Hernia",
+    "purpose": "Relevant chest/diaphragmatic hernia context"
+  },
+  {
+    "id": "chestxray14_dataset_context",
+    "title": "Modeling long-range dependencies for weakly supervised disease classification and localization on chest X-ray",
+    "organization": "NCBI / PMC",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9131331/",
+    "type": "dataset_research",
+    "finding": "Infiltration",
+    "purpose": "ChestX-ray14 dataset and report-derived label context"
+  }
+]

@@ -1,0 +1,5 @@
+Infiltration — ChestX-ray14 dataset label
+
+In the ChestX-ray14 dataset, “Infiltration” is one of 14 thoracic pathology labels. The dataset contains 112,120 frontal-view chest X-ray images from 30,805 patients, and the disease image labels were text-mined from associated radiological reports using natural language processing. Each image can have multiple labels.
+
+“Infiltration” is therefore preserved here as the original ChestX-ray14 dataset label. It should not be interpreted as a single specific modern clinical diagnosis without additional clinical or radiological context.

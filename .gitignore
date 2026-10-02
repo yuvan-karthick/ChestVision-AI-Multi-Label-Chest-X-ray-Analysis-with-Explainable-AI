@@ -1,9 +1,10 @@
- # ==============================
+# ==============================
 # Python
 # ==============================
 __pycache__/
 *.py[cod]
 *.pyo
+*.pyd
 
 # ==============================
 # Virtual Environment
@@ -23,37 +24,44 @@ env/
 .vscode/
 
 # ==============================
-# Python cache
+# Python Cache / Testing
 # ==============================
 .pytest_cache/
 .mypy_cache/
+.coverage
+htmlcov/
 
 # ==============================
-# Large datasets
+# Large Datasets
 # ==============================
 data/
 *.zip
 *.7z
 *.rar
+*.tar
+*.gz
 
 # ==============================
-# Model checkpoints
+# Model Checkpoints
 # ==============================
 checkpoints/
 *.pth
 *.pt
 *.ckpt
+*.safetensors
 
 # ==============================
-# RAG generated data
+# RAG Generated / Local Data
 # ==============================
 rag/vector_store/
 rag/chunks/
 
 # ==============================
-# Local/generated results
+# Local / Generated Results
 # ==============================
 results/
+outputs/
+*.tmp
 
 # ==============================
 # Logs
@@ -61,14 +69,32 @@ results/
 *.log
 
 # ==============================
-# OS files
+# OS Files
 # ==============================
 .DS_Store
 Thumbs.db
 
 # ==============================
-# Environment / secrets
+# Environment / Secrets
 # ==============================
 .env
 .env.*
 !.env.example
+
+# Gemini / Google API credentials
+*gemini*
+*google_api*
+*google_credentials*
+service-account*.json
+credentials*.json
+
+# API key / secret files
+secrets/
+*.secret
+*.key
+
+# ==============================
+# Local Configuration
+# ==============================
+config.local.*
+settings.local.*

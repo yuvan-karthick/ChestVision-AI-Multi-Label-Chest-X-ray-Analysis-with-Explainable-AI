@@ -1,0 +1,35 @@
+[
+  {
+    "chunk_id": "pneumonia_001",
+    "source_id": "pneumonia_radiologyinfo",
+    "finding": "Pneumonia",
+    "section": "Definition",
+    "title": "Pneumonia | Lung inflammation - Diagnosis, Evaluation and Treatment",
+    "organization": "RadiologyInfo / ACR / RSNA",
+    "url": "https://www.radiologyinfo.org/en/info/pneumonia",
+    "last_reviewed": "2026-06-01",
+    "text": "Pneumonia is an infection that causes\ninflammation\nin one or both of the lungs. It can be caused by a virus, bacteria, fungi or other germs. The infection is usually acquired when a person breathes in air carrying germs.\nPatients with pneumonia could have the following symptoms:\ncough that produces phlegm or sometimes blood\nfever\nshortness of breath or difficulty breathing\nchills or shaking\nfatigue\nsweating\nchest or muscle pain\nThose most at risk for developing pneumonia are young children or people over the age of 65.\nPeople with existing health problems are also at increased risk. Risk factors and circumstances that may increase a person's chances of developing pneumonia include:\nhaving illnesses such as\nemphysema\n, HIV/AIDS or other lung diseases or conditions that affect the immune system\nhaving the flu\nexposure to and inhalation of various chemicals\nsmoking or excessive drinking\na prolonged stay in the hospital or intensive care\nrecent surgery\nrecent injury\nPneumonia can sometimes lead to serious complications, such as\nrespiratory\nsystem failure, spread of infections, fluid surrounding the lungs,\nabscesses\nor uncontrolled inflammation throughout the body (sepsis). The condition can also be fatal, so it is important to seek immediate medical attention if you are experiencing these symptoms."
+  },
+  {
+    "chunk_id": "pneumonia_002",
+    "source_id": "pneumonia_radiologyinfo",
+    "finding": "Pneumonia",
+    "section": "Diagnosis and Evaluation",
+    "title": "Pneumonia | Lung inflammation - Diagnosis, Evaluation and Treatment",
+    "organization": "RadiologyInfo / ACR / RSNA",
+    "url": "https://www.radiologyinfo.org/en/info/pneumonia",
+    "last_reviewed": "2026-06-01",
+    "text": "Your primary doctor will begin by asking you about your medical history and symptoms. You will also undergo a physical exam, so that your doctor can listen to your lungs. In checking for pneumonia, your doctor will listen for abnormal sounds like crackling, rumbling or wheezing. If your doctor thinks you may have pneumonia, an imaging test may be performed to confirm the diagnosis.\nOne or more of the following tests may be ordered to evaluate for pneumonia:\nChest x-ray\n:\nAn x-ray exam will allow your doctor to see your lungs, heart and blood vessels to help determine if you have pneumonia. When interpreting the x-ray, the radiologist will look for white spots in the lungs (called infiltrates) that identify an infection. This exam will also help determine if you have any complications related to pneumonia such as abscesses or\npleural effusions\n(fluid surrounding the lungs).\nCT of the lungs\n:\nA CT scan of the chest may be done to see finer details within the lungs and detect pneumonia that may be more difficult to see on a plain x-ray. A CT scan also shows the airway (trachea and bronchi) in great detail and can help determine if pneumonia may be related to a problem within the airway. A CT scan can also show complications of pneumonia, abscesses or pleural effusions and enlarged lymph nodes.\nUltrasound of the chest\n:\nUltrasound may be used if fluid surrounding the lungs is suspected. An ultrasound exam will help determine how much fluid is present and can aid in determining the cause of the fluid.\nMRI of the chest\n:\nMRI is not generally used to evaluate for pneumonia but may be used to look at the heart, vessels of the chest and chest wall structures. If the lungs are abnormal because of excess fluid, infection or tumor, an MRI may provide additional information about the cause or extent of these abnormalities.\nNeedle biopsy of the lung\n:\nYour doctor may request a biopsy of your lung(s) to determine the cause of pneumonia. This procedure involves removing several small samples from your lung(s) and examining them. Biopsies of the lung can be done using x-ray, CT, ultrasound and/or MRI."
+  },
+  {
+    "chunk_id": "pneumonia_003",
+    "source_id": "pneumonia_radiologyinfo",
+    "finding": "Pneumonia",
+    "section": "Treatment",
+    "title": "Pneumonia | Lung inflammation - Diagnosis, Evaluation and Treatment",
+    "organization": "RadiologyInfo / ACR / RSNA",
+    "url": "https://www.radiologyinfo.org/en/info/pneumonia",
+    "last_reviewed": "2026-06-01",
+    "text": "The following image-guided treatments may be used for pneumonia:\nThoracentesis\n:\nFluid may be taken from your chest cavity and studied to help your doctor determine which germ is causing your illness. X-ray, CT and/or ultrasound may be used during thoracentesis. The fluid removed during this procedure may also help provide symptom relief.\nChest tube placement\n:\nDuring this procedure, also known as thoracostomy, a thin plastic tube is inserted into the\npleural space\n(the area between the chest wall and lungs. The tube can help remove excess fluid or air. The procedure is performed under the guidance of CT or ultrasound.\nImage-guided abscess drainage\n:\nImage-guidance helps direct placement of a needle into the abscess cavity and can aid during insertion of a drainage tube. If an abscess has formed in the lungs, it may be drained by inserting a small drainage tube (catheter). Image guidance, including fluoroscopy, x-ray, ultrasound or CT, is used.\nEach of these tests will help your doctor further evaluate your lungs and lung function or help determine the type of germ causing your pneumonia."
+  }
+]

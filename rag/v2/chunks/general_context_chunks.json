@@ -1,0 +1,32 @@
+[
+  {
+    "chunk_id": "chest_xray_general_001",
+    "source_id": "radiologyinfo_chest_xray",
+    "title": "Chest X-ray",
+    "organization": "RadiologyInfo / ACR / RSNA",
+    "url": "https://www.radiologyinfo.org/en/info/chestrad",
+    "finding": "General",
+    "section": "What is a chest X-ray and common uses",
+    "text": "A chest X-ray uses a very small dose of ionizing radiation to produce pictures of the inside of the chest. It is used to evaluate the lungs, heart, and chest wall and may help diagnose symptoms such as breathing difficulties, persistent cough, chest pain or injury, and fever. It may also help diagnose or monitor conditions such as pneumonia, heart problems, emphysema, and lung cancer, and can show fluid or air collections around the lungs.\n\nChest X-ray is a fast and widely available examination, but it has limitations. Some conditions cannot be detected on a conventional chest X-ray, so a normal chest X-ray does not necessarily rule out every chest abnormality. Further imaging may be needed to clarify findings or detect abnormalities that are not visible on the X-ray."
+  },
+  {
+    "chunk_id": "chest_xray_report_001",
+    "source_id": "radiologyinfo_chest_xray_report",
+    "title": "How to Read Your Chest X-ray Report",
+    "organization": "RadiologyInfo / ACR / RSNA",
+    "url": "https://www.radiologyinfo.org/en/info/article-chest-xray-report",
+    "finding": "General",
+    "section": "Radiology report structure",
+    "text": "A chest X-ray report commonly contains sections such as the type of exam, history or reason for the exam, comparison with prior studies, technique, findings, and impression. The Findings section describes what the radiologist sees in the examined areas and may state whether structures appear normal, abnormal, or potentially abnormal.\n\nThe Impression section summarizes the most important findings and may include possible causes and recommendations for follow-up. Further imaging, clinical information, laboratory results, or comparison with previous studies may sometimes be needed to clarify an abnormal or uncertain finding."
+  },
+  {
+    "chunk_id": "chestxray14_dataset_001",
+    "source_id": "chestxray14_dataset_context",
+    "title": "ChestX-ray14 Dataset Context",
+    "organization": "NCBI / PMC",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9131331/",
+    "finding": "General",
+    "section": "Dataset overview",
+    "text": "ChestX-ray14 is a large chest X-ray dataset containing 112,120 frontal-view chest X-ray images from 30,805 patients. It uses 14 thoracic pathology labels, including Atelectasis, Cardiomegaly, Effusion, Infiltration, Mass, Nodule, Pneumonia, Pneumothorax, Consolidation, Edema, Emphysema, Fibrosis, Pleural Thickening, and Hernia.\n\nThe disease labels were generated using natural language processing of associated radiological reports rather than direct manual image annotation for every image. The dataset is therefore used as a weakly supervised or automatically labeled resource, and its labels should be interpreted as dataset annotations rather than definitive clinical diagnoses."
+  }
+]
